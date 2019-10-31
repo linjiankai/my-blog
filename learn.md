@@ -8,5 +8,5 @@
 
 
 ## Webpack
-- @ 路径alias
+- @ 路径   alias: {'@': paths.appSrc,}
 - 
